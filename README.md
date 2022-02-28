@@ -23,8 +23,7 @@ This project explores the power of Advanced Data Storage and Retrieval to effice
 
 - _December Recorded Temps Visualization (Temperature and Frequency)_
 
-<img width="495" alt="dec_plot" src="https://user-images.githubusercontent.com/77628698/121729393-69a4c300-cabc-11eb-853a-667622c4c960.png">
-
+<img width="495" alt="dec_plot" src="https://user-images.githubusercontent.com/96216509/155911110-7b651ba3-3904-4be2-a092-0b08979ad12b.png">
 
 __Key Differences in Weather: Oahu, Hawaii__
 - The average recorded temperature in June is about 75 degrees F, 4 degrees higher than the average temp in December.
