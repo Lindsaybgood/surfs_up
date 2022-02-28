@@ -15,7 +15,7 @@ This project explores the power of Advanced Data Storage and Retrieval to effice
 ---
 - _Summary Statistics DataFrame: June vs December Temperatures_
 
-<img width="509" alt="summary_stats_df" src="https://user-images.githubusercontent.com/77628698/121727758-52fd6c80-caba-11eb-8e12-33676aa48ae8.png">
+<img width="509" alt="summary_stats_df" src="https://user-images.githubusercontent.com/96216509/155910933-2405caf7-82bf-405b-8f50-8ad789dcc65d.png">
 
 - _June Recorded Temps Visualization (Temperature and Frequency)_
 
