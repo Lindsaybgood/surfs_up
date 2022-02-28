@@ -42,3 +42,4 @@ Before making a final deicision, I would recommend further analysis on:
 
 2. Review other important variables that are correlated with optimal beach and surfing weather. Such varibles include precipitation, wave swells and wind condition. Though there may be some contrasting optimal conditions based on surfing vs sunbathing, it is important to identify those conditions and see how they correlate to foot traffic to the beach (depending on the time of year). 
 
+
