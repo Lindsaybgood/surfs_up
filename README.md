@@ -41,6 +41,6 @@ Before making a final deicision though, I would want to perform some additional 
 
 - _Stations vs Temps for June and December Starting Point_
 
-<img width="656" alt="station_temps" src="https://user-images.githubusercontent.com/77628698/121732019-af16bf80-cabf-11eb-90b5-a7918402c3b7.png">
+<img width="656" alt="station_temps" src="https://user-images.githubusercontent.com/96216509/155911246-b5c4bfac-f74e-4fa0-a238-820fda6d3c37.png">
 
 2. Secondly, I would like to review other important variables that are correlated with optimal beach and surfing weather. Sunch varibles include precipitation, wave swells and wind condition. Though there may be some contrasting optimal conditions based on surfing vs sunbathing, it is important to identify those conditions and see how they correlate to foot traffic to the beach (depending on the time of year). It would be foolish to only value temperatures as the key indicator for opening a business. 
