@@ -11,11 +11,6 @@ This project explores the power of Advanced Data Storage and Retrieval to effice
 -  Data Tools: `Python SQL toolkit (SQLAlchemy)`, `Object Relational Mapper`, `pandas`, `numpy`
 -  Software: SQLlite, Python 3.9.2, Flask, Jupyter Notebook
 
-## Challenge Deliverables
-Deliverable 1: Determine the Summary Statistics for June
-Deliverable 2: Determine the Summary Statistics for December
-Deliverable 3: A written report for the statistical analysis (README.md)
-
 ## Results
 ---
 - _Summary Statistics DataFrame: June vs December Temperatures_
