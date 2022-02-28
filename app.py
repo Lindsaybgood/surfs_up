@@ -159,6 +159,3 @@ def stats(start=None, end=None):
 	# NOTE: Add following to path to address in browser:
 		# /api/v1.0/temp/2017-06-01/2017-06-30
 		# result: ["temps":[71.0,77.21989528795811,83.0]]
-
-
-
