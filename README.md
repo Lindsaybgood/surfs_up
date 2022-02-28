@@ -19,7 +19,7 @@ This project explores the power of Advanced Data Storage and Retrieval to effice
 
 - _June Recorded Temps Visualization (Temperature and Frequency)_
 
-<img width="503" alt="june_plot" src="https://user-images.githubusercontent.com/77628698/121729372-63aee200-cabc-11eb-81ad-075fa0e35b82.png">
+<img width="503" alt="june_plot" src="https://user-images.githubusercontent.com/96216509/155911032-a272851f-6488-4c48-a129-0e047251e9fe.png">
 
 - _December Recorded Temps Visualization (Temperature and Frequency)_
 
