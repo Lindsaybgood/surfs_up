@@ -1,6 +1,3 @@
-# surfs_up
-Advanced Data Storage and Retrieval with `Jupyter Notebook`, `SQLite` and `SQLAlchemy`
-
 ## CHALLENGE OVERVIEW
 ---
 This project explores the power of Advanced Data Storage and Retrieval to efficently produce an analyis of temperature trends in Oahu, Hawaii. Specifically, summary statistics of temperature data were requested for the months of June and December, in order to determine if a prospective surf and ice cream shop business can sustainably operate year-round as opposed to a seasonal business. 
@@ -9,7 +6,7 @@ This project explores the power of Advanced Data Storage and Retrieval to effice
 - Data Source: `hawaii.sqlite`
 - Programming Files: `SurfsUp_Challenge.ipynb`, `climate_analysis.ipynb`
 -  Data Tools: `Python SQL toolkit (SQLAlchemy)`, `Object Relational Mapper`, `pandas`, `numpy`
--  Software: SQLlite, Python 3.9.2, Flask, Jupyter Notebook
+-  Software: SQLlite, Python 3.9.7, Flask, Jupyter Notebook
 
 ## Results
 ---
